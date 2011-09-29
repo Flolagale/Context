@@ -1,0 +1,2 @@
+Context is a project for the Python interpreter of the Android scripting layer sl4a.
+It allows to perform specified 'actions' in specific 'contexts' of time or location.
